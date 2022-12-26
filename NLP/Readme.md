@@ -6,5 +6,5 @@
 
 ## 2- Common NLP tasks
 
-    a. Text/Document Classification NLP
-    ![image](https://user-images.githubusercontent.com/112492310/209517841-511c0e47-2a47-42dd-9df0-468d9801fbde.png)
+a. Text/Document Classification NLP
+![image](https://user-images.githubusercontent.com/112492310/209517841-511c0e47-2a47-42dd-9df0-468d9801fbde.png)
