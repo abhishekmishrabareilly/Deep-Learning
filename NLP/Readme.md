@@ -4,7 +4,7 @@
 
 ## **2- Common NLP tasks**
 
-  * **A. Text/Document Classification NLP**
+  * ###**A. Text/Document Classification NLP**
   ### B. Sentiment Analysis
   ### C. Information Retrieval
   ### D. Part of Speech(POS) Tagging
