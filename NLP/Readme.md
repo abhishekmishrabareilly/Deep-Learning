@@ -1,14 +1,14 @@
 # Natural Language Processing(NLP)
 
 ## **1- Natural Language Processing Applications:-**
-  * ### Email filters. Email filters are one of the most basic and initial applications of NLP online
-  * ### Smart assistants
-  * ### Search results
-  * ### Predictive text
-  * ### Language translation
-  * ### Digital phone calls
-  * ### Data analysis
-  * ### Text analytics
+    * ### Email filters. Email filters are one of the most basic and initial applications of NLP online
+    * ### Smart assistants
+    * ### Search results
+    * ### Predictive text
+    * ### Language translation
+    * ### Digital phone calls
+    * ### Data analysis
+    * ### Text analytics
 
 ## **2- Common NLP tasks**
 
