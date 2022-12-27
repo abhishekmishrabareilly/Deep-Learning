@@ -4,23 +4,23 @@
 
 ## **2- Common NLP tasks**
 
-  * #### A. Text/Document Classification NLP
-  * #### B. Sentiment Analysis
-  * #### C. Information Retrieval
-  * #### D. Part of Speech(POS) Tagging
-  * #### E. Language Detection and machine translation
-  * #### F. Conversational Agents
-  * #### G. knowledge graph
-  * #### H. Text Summarization
-  * #### I. Topic Modelling
-  * #### J. TEXT genration
-  * #### K. Spell checker and Grammar Correction
-  * #### L. Text Parsing
-  * #### M. Speech to Text
+  * ### A. Text/Document Classification NLP
+  * ### B. Sentiment Analysis
+  * ### C. Information Retrieval
+  * ### D. Part of Speech(POS) Tagging
+  * ### E. Language Detection and machine translation
+  * ### F. Conversational Agents
+  * ### G. knowledge graph
+  * ### H. Text Summarization
+  * ### I. Topic Modelling
+  * ### J. TEXT genration
+  * ### K. Spell checker and Grammar Correction
+  * ### L. Text Parsing
+  * ### M. Speech to Text
 
 ## **3- Approaches To NLP**
  * ### A.Heuristic Models
  * ### B.Machine Learning Based Models
-    * #### A.Naive Bayes
- * #### A.Naive Bayes
- * #### B.Support Vector Machines(SVM)
+    * ### A.Naive Bayes
+    * ### A.Naive Bayes
+    * ### B.Support Vector Machines(SVM)
