@@ -48,10 +48,10 @@
     The house is looking really run down.
 
  * ### Colloquialisms and slang
+ 
  * ### Synonyms
-    Example - I saw the boy on the beach with my binoculars
+
  * ### Irony and sarcasm
-    Example - I saw the boy on the beach with my binoculars
+
  * ### Errors in text or speech
-    Example - I saw the boy on the beach with my binoculars
- * ### 
+
