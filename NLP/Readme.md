@@ -4,7 +4,7 @@
 
 ## **2- Common NLP tasks**
 
-  * #### **A. Text/Document Classification NLP**
+  * #### A. Text/Document Classification NLP
   * #### B. Sentiment Analysis
   * #### C. Information Retrieval
   * #### D. Part of Speech(POS) Tagging
@@ -18,6 +18,9 @@
   * #### L. Text Parsing
   * #### M. Speech to Text
 
-## **3- Algorithms used in NLP**
-### A.Naive Bayes
-### B.Support Vector Machines(SVM)
+## **3- Approaches To NLP**
+ * ### A.Heuristic Models
+ * ### B.Machine Learning Based Models
+    * #### A.Naive Bayes
+ * #### A.Naive Bayes
+ * #### B.Support Vector Machines(SVM)
