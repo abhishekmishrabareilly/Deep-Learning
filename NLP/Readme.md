@@ -38,3 +38,20 @@
     * ### GRU/CNN
     * ### Transformers
     * ### Autoencoders
+
+## **3- Challlenges in NLP**
+ * ### Ambiguty
+    Example - I saw the boy on the beach with my binoculars. This could mean that I saw a boy through my binoculars or the boy had my binoculars with him
+ * ### Contextual words
+    Example - I ran to the store because we ran out of milk.
+    Can I run something past you real quick?
+    The house is looking really run down.
+
+ * ### Colloquialisms and slang
+ * ### Synonyms
+    Example - I saw the boy on the beach with my binoculars
+ * ### Irony and sarcasm
+    Example - I saw the boy on the beach with my binoculars
+ * ### Errors in text or speech
+    Example - I saw the boy on the beach with my binoculars
+ * ### 
