@@ -32,7 +32,7 @@
     * ### Logistic Regression
     * ### Hidden Markov Model
     
- * ### Deep Learning Based Models
+ * ### C. Deep Learning Based Models
     * ### RNN
     * ### LSTM
     * ### GRU/CNN
