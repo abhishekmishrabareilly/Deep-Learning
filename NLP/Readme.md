@@ -63,3 +63,51 @@
 
  * ### Errors in text or speech
 
+## NLP Pipeline
+  1. ### Data Acquisition
+    * You have the dataon your desk
+    * Data is availble but not on your desk 
+    * Nobody have the data
+
+  2. ### Text preprocession
+
+    * Text cleanup
+      * html tags cleaning
+      * e-mojis cleaning
+      * spelling checking
+
+    * Basic preprocession
+      * Tokenization
+        * Sentence tokenization
+        * Word tokenization
+      * Optimal
+        * Stop word removel
+        * stemming
+        * Removing punchuation
+        * Lower casing
+        * Language detection
+
+    * Advance preprocession
+      * part of speech tagging
+      * Parsing
+      * Co-refrances rsoluation
+
+  3. ### Feature Engineering
+    * TF-IDF 
+    * Word to vec
+
+  4. ### Modelling
+    * Model Building
+      * heuristic Approach
+      * Machine Learning Approach
+      * Deep Learning Approach
+      * Cloude API
+
+    * Evaluation
+      * Intrinsic Evaluation
+      * Extrinsic Evaluation
+
+  5. ### Deployment
+    * Deployment
+    * Monitoring
+    * model Update
